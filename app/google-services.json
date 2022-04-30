@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231796592004",
+    "project_id": "smart-fit-cea71",
+    "storage_bucket": "smart-fit-cea71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231796592004:android:3d42025571da32a8c9a1d1",
+        "android_client_info": {
+          "package_name": "com.project.smartfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231796592004-27cg52iao08dqrppdq5pgmojhuibd74j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Kfuk6unL-lQi2G3mD2iXL2k1E2WziA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231796592004-27cg52iao08dqrppdq5pgmojhuibd74j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
