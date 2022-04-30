@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Smart Fit</string>
+    <string name="tab_text_1">Dashboard</string>
+    <string name="tab_text_2">Activities</string>
+    <string name="app_icon">App Icon</string>
+    <string name="bmi_value">18.52</string>
+    <string name="bmi_text">Healthy</string>
+    <string name="weight_text">Weight: </string>
+    <string name="weight_value">60 kg</string>
+    <string name="height_text">Height: </string>
+    <string name="height_value">180 cm</string>
+    <string name="tap_to_change">Tap to change</string>
+    <string name="user_name">Fazil Mohamed</string>
+    <string name="weight_range_to_your_height">Maintain Weight in Below Range</string>
+    <string name="weight_range">59 – 80 kg</string>
+    <string name="add_new_activity_btn">Add New Activity</string>
+    <string name="activity_title">Fish Bun | 1</string>
+    <string name="_100_calories">+100 Calories</string>
+    <string name="food">Intake</string>
+    <string name="your_bmi_value_text">Your BMI Value</string>
+    <string name="calories_intake">700 Calories</string>
+    <string name="calories_burned">100 Calories</string>
+    <string name="welcome_to_smart_fit">Welcome To Smart Fit</string>
+    <string name="your_name_hint">Your Name</string>
+    <string name="weight_hint">Weight (kg)</string>
+    <string name="height_hint">Height (cm)</string>
+    <string name="continue_text">Continue</string>
+    <string name="select_type_text">Select Type</string>
+    <string name="select_activity_text">Select Food/Activity</string>
+    <string name="select_amount_distance_text">Select Quantity/Distance</string>
+    <string name="save_text">Save</string>
+    <string name="age_hint">Your Age</string>
+    <string name="age_text">Age: </string>
+    <string name="age_value_text">25 years</string>
+    <string name="enter_title_hint">Enter title</string>
+
+    <string-array name="type_spinner">
+        <item>Intake</item>
+        <item>Burn</item>
+    </string-array>
+
+    <string-array name="intake_spinner">
+        <item>Select Food</item>
+        <item>Burger</item>
+        <item>Pizza</item>
+        <item>Ice Cream Corn</item>
+        <item>Coca Cola</item>
+        <item>Banana</item>
+    </string-array>
+
+    <string-array name="burn_spinner">
+        <item>Select Activity</item>
+        <item>Walking</item>
+        <item>Running</item>
+        <item>Swimming</item>
+        <item>Cycling</item>
+        <item>Hiking</item>
+    </string-array>
+
+    <string-array name="amount_spinner">
+        <item>Select Quantity</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="distance_spinner">
+        <item>Select Distance (km)</item>
+        <item>0.1</item>
+        <item>0.5</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string name="des_healthy">
+        Your BMI indicates that you are at a healthy weight for your height. By maintaining a healthy weight, you lower your risk of developing serious health problems.
+    </string>
+    <string name="des_underweight">
+         A BMI of less than 18.5 indicates that you are underweight, so you may need to put on some weight. You are recommended to ask your doctor or a dietitian for advice.
+    </string>
+    <string name="des_pre">
+        A BMI of 25.0-29.9 indicates that you are slightly overweight. You may be advised to lose some weight for health reasons. You are recommended to talk to your doctor or a dietitian for advice.
+    </string>
+    <string name="des_obesity">
+        A BMI of over 30.0 indicates that you are heavily overweight. Your health may be at risk if you do not lose weight. You are recommended to talk to your doctor or a dietitian for advice.
+    </string>
+    <string name="underweight_bmi_range"><![CDATA[Underweight Range\n<18.5]]></string>
+    <string name="text_nothing_to_show">Nothing to show</string>
+    <string name="_18_5">18.5</string>
+    <string name="_25_0">25.0</string>
+    <string name="_30_0">30.0</string>
+    <string name="text_healthy_weight_range">Your healthy weight range: 49 – 66 kg</string>
+    <string name="text_delete">Delete</string>
+</resources>
